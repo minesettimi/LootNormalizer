@@ -21,7 +21,7 @@ public static class Metadata
         public List<string>? Incompatibilities { get; init; }
         public Dictionary<string, Range>? ModDependencies { get; init; } = new();
 
-        public string? Url { get; init; } = "https://github.com/minesettimi/StrangeCurios";
+        public string? Url { get; init; } = "https://github.com/minesettimi/LootNormalizer";
         public string License { get; init; } = "MIT";
     }
 }
